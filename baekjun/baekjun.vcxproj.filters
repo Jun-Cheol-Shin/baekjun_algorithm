@@ -27,5 +27,17 @@
     <ClCompile Include="4344_평균은 넘겠지.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="4673_셀프 넘버.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1065_한수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1152_단어의 개수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -18,6 +18,7 @@ bool Checkprime(int n)
 
 int main()
 {
+
 	int N;
 
 	cin >> N;

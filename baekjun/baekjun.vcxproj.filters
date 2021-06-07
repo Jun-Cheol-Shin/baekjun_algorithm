@@ -13,67 +13,103 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\자료구조">
+      <UniqueIdentifier>{67102e10-a7a5-4cd1-a26a-4db6534846e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\필수수학">
+      <UniqueIdentifier>{9cc49e07-a881-487e-ae1f-43185b0acc27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\문자, 정렬">
+      <UniqueIdentifier>{01606c4f-b5f1-4c89-9372-1b7793b9ef57}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2588_곱셈.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="17413_단어뒤집기.cpp">
+      <Filter>소스 파일\자료구조</Filter>
     </ClCompile>
-    <ClCompile Include="15552_빠른A+B.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1110_더하기_사이클.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="4344_평균은 넘겠지.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="4673_셀프 넘버.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1065_한수.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1152_단어의 개수.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2941_크로아티아 알파벳.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1316_그룹 단어 체커.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1193_분수 찾기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2869_달팽이는 올라가고 싶다.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1978_소수찾기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="10828_스택.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="9093_단어뒤집기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="9012_괄호.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1874_스택_수열.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1406_에디터.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="10845_큐.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1158_요세푸스.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="17299_오등큰수.cpp">
+      <Filter>소스 파일\자료구조</Filter>
     </ClCompile>
     <ClCompile Include="10866_덱.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="10845_큐.cpp">
+      <Filter>소스 파일\자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="10828_스택.cpp">
+      <Filter>소스 파일\자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="10799_쇠막대기.cpp">
+      <Filter>소스 파일\자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="1874_스택_수열.cpp">
+      <Filter>소스 파일\자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="1406_에디터.cpp">
+      <Filter>소스 파일\자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="1158_요세푸스.cpp">
+      <Filter>소스 파일\자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="1978_소수찾기.cpp">
+      <Filter>소스 파일\필수수학</Filter>
+    </ClCompile>
+    <ClCompile Include="2609_최대공약수와 최소공배수.cpp">
+      <Filter>소스 파일\필수수학</Filter>
+    </ClCompile>
+    <ClCompile Include="1934_최소공배수.cpp">
+      <Filter>소스 파일\필수수학</Filter>
+    </ClCompile>
+    <ClCompile Include="1065_한수.cpp">
+      <Filter>소스 파일\문자, 정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="1110_더하기_사이클.cpp">
+      <Filter>소스 파일\문자, 정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="1152_단어의 개수.cpp">
+      <Filter>소스 파일\문자, 정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="1193_분수 찾기.cpp">
+      <Filter>소스 파일\문자, 정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="1316_그룹 단어 체커.cpp">
+      <Filter>소스 파일\문자, 정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="2588_곱셈.cpp">
+      <Filter>소스 파일\문자, 정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="2869_달팽이는 올라가고 싶다.cpp">
+      <Filter>소스 파일\문자, 정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="2941_크로아티아 알파벳.cpp">
+      <Filter>소스 파일\문자, 정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="4344_평균은 넘겠지.cpp">
+      <Filter>소스 파일\문자, 정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="4673_셀프 넘버.cpp">
+      <Filter>소스 파일\문자, 정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="9012_괄호.cpp">
+      <Filter>소스 파일\문자, 정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="9093_단어뒤집기.cpp">
+      <Filter>소스 파일\문자, 정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="10989_수정렬하기3.cpp">
+      <Filter>소스 파일\문자, 정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="15552_빠른A+B.cpp">
+      <Filter>소스 파일\문자, 정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="1929_소수구하기.cpp">
+      <Filter>소스 파일\필수수학</Filter>
+    </ClCompile>
+    <ClCompile Include="6588_골드바흐의 추측.cpp">
+      <Filter>소스 파일\필수수학</Filter>
+    </ClCompile>
+    <ClCompile Include="1676_팩토리얼0의개수.cpp">
+      <Filter>소스 파일\필수수학</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

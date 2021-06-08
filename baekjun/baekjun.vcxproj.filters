@@ -22,6 +22,12 @@
     <Filter Include="소스 파일\문자, 정렬">
       <UniqueIdentifier>{01606c4f-b5f1-4c89-9372-1b7793b9ef57}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\다이나믹">
+      <UniqueIdentifier>{a2d04748-8dab-48bc-acf9-3def9d8dd906}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\기본기">
+      <UniqueIdentifier>{3c027bfd-c80a-4013-beda-b32b84ab3c44}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="17413_단어뒤집기.cpp">
@@ -110,6 +116,42 @@
     </ClCompile>
     <ClCompile Include="1676_팩토리얼0의개수.cpp">
       <Filter>소스 파일\필수수학</Filter>
+    </ClCompile>
+    <ClCompile Include="1463_1로 만들기.cpp">
+      <Filter>소스 파일\다이나믹</Filter>
+    </ClCompile>
+    <ClCompile Include="11726_2n타일링.cpp">
+      <Filter>소스 파일\다이나믹</Filter>
+    </ClCompile>
+    <ClCompile Include="11727_2n타일링2.cpp">
+      <Filter>소스 파일\다이나믹</Filter>
+    </ClCompile>
+    <ClCompile Include="9095_123더하기.cpp">
+      <Filter>소스 파일\다이나믹</Filter>
+    </ClCompile>
+    <ClCompile Include="2501_약수구하기.cpp">
+      <Filter>소스 파일\기본기</Filter>
+    </ClCompile>
+    <ClCompile Include="3460_이진수.cpp">
+      <Filter>소스 파일\기본기</Filter>
+    </ClCompile>
+    <ClCompile Include="2460_지능형기차2.cpp">
+      <Filter>소스 파일\기본기</Filter>
+    </ClCompile>
+    <ClCompile Include="2309_일곱난쟁이.cpp">
+      <Filter>소스 파일\기본기</Filter>
+    </ClCompile>
+    <ClCompile Include="2693_N번째큰수.cpp">
+      <Filter>소스 파일\기본기</Filter>
+    </ClCompile>
+    <ClCompile Include="1292_쉽게푸는문제.cpp">
+      <Filter>소스 파일\기본기</Filter>
+    </ClCompile>
+    <ClCompile Include="2581_소수.cpp">
+      <Filter>소스 파일\기본기</Filter>
+    </ClCompile>
+    <ClCompile Include="11052_카드구매하기.cpp">
+      <Filter>소스 파일\다이나믹</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

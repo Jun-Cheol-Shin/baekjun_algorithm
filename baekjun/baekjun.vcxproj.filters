@@ -31,6 +31,9 @@
     <Filter Include="소스 파일\브루트">
       <UniqueIdentifier>{8ebde6db-0c2e-45b2-9e5d-1b0beb04c596}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\미완성">
+      <UniqueIdentifier>{636c28dd-8b80-4e32-abae-d1eee0fb3825}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="17413_단어뒤집기.cpp">
@@ -186,8 +189,17 @@
     <ClCompile Include="1476_날짜계산.cpp">
       <Filter>소스 파일\브루트</Filter>
     </ClCompile>
-    <ClCompile Include="1107_리모컨.cpp">
+    <ClCompile Include="1748_수이어쓰기1.cpp">
       <Filter>소스 파일\브루트</Filter>
+    </ClCompile>
+    <ClCompile Include="6064_카잉달력.cpp">
+      <Filter>소스 파일\브루트</Filter>
+    </ClCompile>
+    <ClCompile Include="2133_타일채우기.cpp">
+      <Filter>소스 파일\다이나믹</Filter>
+    </ClCompile>
+    <ClCompile Include="11057_오르막수.cpp">
+      <Filter>소스 파일\다이나믹</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

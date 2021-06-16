@@ -201,5 +201,14 @@
     <ClCompile Include="11057_오르막수.cpp">
       <Filter>소스 파일\다이나믹</Filter>
     </ClCompile>
+    <ClCompile Include="1107_리모컨.cpp">
+      <Filter>소스 파일\브루트</Filter>
+    </ClCompile>
+    <ClCompile Include="11053_가장 긴 증가하는 부분 수열.cpp">
+      <Filter>소스 파일\브루트</Filter>
+    </ClCompile>
+    <ClCompile Include="14500_테트로미노.cpp">
+      <Filter>소스 파일\브루트</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

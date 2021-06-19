@@ -34,6 +34,9 @@
     <Filter Include="소스 파일\미완성">
       <UniqueIdentifier>{636c28dd-8b80-4e32-abae-d1eee0fb3825}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\N과M">
+      <UniqueIdentifier>{b0b73c1d-9a5c-44cf-a30e-078bab674c13}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="17413_단어뒤집기.cpp">
@@ -209,6 +212,33 @@
     </ClCompile>
     <ClCompile Include="14500_테트로미노.cpp">
       <Filter>소스 파일\브루트</Filter>
+    </ClCompile>
+    <ClCompile Include="15649_N과M_1.cpp">
+      <Filter>소스 파일\N과M</Filter>
+    </ClCompile>
+    <ClCompile Include="15650_N과M_2.cpp">
+      <Filter>소스 파일\N과M</Filter>
+    </ClCompile>
+    <ClCompile Include="15651_N과M_3.cpp">
+      <Filter>소스 파일\N과M</Filter>
+    </ClCompile>
+    <ClCompile Include="15652_N과M_4.cpp">
+      <Filter>소스 파일\N과M</Filter>
+    </ClCompile>
+    <ClCompile Include="15654_N과M_5.cpp">
+      <Filter>소스 파일\N과M</Filter>
+    </ClCompile>
+    <ClCompile Include="15655_N과M_6.cpp">
+      <Filter>소스 파일\N과M</Filter>
+    </ClCompile>
+    <ClCompile Include="15656_N과M_7.cpp">
+      <Filter>소스 파일\N과M</Filter>
+    </ClCompile>
+    <ClCompile Include="15657_N과M_8.cpp">
+      <Filter>소스 파일\N과M</Filter>
+    </ClCompile>
+    <ClCompile Include="15663_N과M_9.cpp">
+      <Filter>소스 파일\N과M</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

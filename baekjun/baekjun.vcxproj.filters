@@ -37,6 +37,15 @@
     <Filter Include="소스 파일\N과M">
       <UniqueIdentifier>{b0b73c1d-9a5c-44cf-a30e-078bab674c13}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\브루트-순열">
+      <UniqueIdentifier>{54b5133f-9e4f-4afe-82de-7fe31f3bff2a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BFS">
+      <UniqueIdentifier>{72368ef1-8242-4f68-a92e-d388c70073e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\브루트-재귀">
+      <UniqueIdentifier>{756d74ba-247e-443c-a203-e0cc23bb316b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="17413_단어뒤집기.cpp">
@@ -239,6 +248,45 @@
     </ClCompile>
     <ClCompile Include="15663_N과M_9.cpp">
       <Filter>소스 파일\N과M</Filter>
+    </ClCompile>
+    <ClCompile Include="15664_N과M_10.cpp">
+      <Filter>소스 파일\N과M</Filter>
+    </ClCompile>
+    <ClCompile Include="15665_N과M_11.cpp">
+      <Filter>소스 파일\N과M</Filter>
+    </ClCompile>
+    <ClCompile Include="15666_N과M_12.cpp">
+      <Filter>소스 파일\N과M</Filter>
+    </ClCompile>
+    <ClCompile Include="10972_다음 순열.cpp">
+      <Filter>소스 파일\브루트-순열</Filter>
+    </ClCompile>
+    <ClCompile Include="10973_이전 수열.cpp">
+      <Filter>소스 파일\브루트-순열</Filter>
+    </ClCompile>
+    <ClCompile Include="10974_모든_수열.cpp">
+      <Filter>소스 파일\브루트-순열</Filter>
+    </ClCompile>
+    <ClCompile Include="10819_차이를 최대로.cpp">
+      <Filter>소스 파일\브루트-순열</Filter>
+    </ClCompile>
+    <ClCompile Include="10971_외판원_순회2.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="6603_로또.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1759_암호 만들기.cpp">
+      <Filter>소스 파일\브루트-재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="14501_퇴사.cpp">
+      <Filter>소스 파일\브루트-재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="14889_스타트와 링크.cpp">
+      <Filter>소스 파일\브루트-재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="15661_링크와 스타트.cpp">
+      <Filter>소스 파일\브루트-재귀</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

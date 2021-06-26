@@ -46,6 +46,12 @@
     <Filter Include="소스 파일\브루트-재귀">
       <UniqueIdentifier>{756d74ba-247e-443c-a203-e0cc23bb316b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\브루트-비트마스크">
+      <UniqueIdentifier>{75110de7-23ad-4741-a1b6-f79437079f06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\그래프">
+      <UniqueIdentifier>{6dc72477-2053-4789-b3a9-e8e87ea59db4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="17413_단어뒤집기.cpp">
@@ -287,6 +293,39 @@
     </ClCompile>
     <ClCompile Include="15661_링크와 스타트.cpp">
       <Filter>소스 파일\브루트-재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="2529_부등호.cpp">
+      <Filter>소스 파일\브루트-재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="1248_맞춰봐.cpp">
+      <Filter>소스 파일\브루트-재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자 만들기.cpp">
+      <Filter>소스 파일\브루트-재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="11723_집합.cpp">
+      <Filter>소스 파일\브루트-비트마스크</Filter>
+    </ClCompile>
+    <ClCompile Include="1182_부분수열의합.cpp">
+      <Filter>소스 파일\미완성</Filter>
+    </ClCompile>
+    <ClCompile Include="13023_ABCDE.cpp">
+      <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="1260_DFS와 BFS.cpp">
+      <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="11724_연결 요소의 개수.cpp">
+      <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="1707_이분 그래프.cpp">
+      <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="2667_단지번호붙이기.cpp">
+      <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="4963_섬의 개수.cpp">
+      <Filter>소스 파일\그래프</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

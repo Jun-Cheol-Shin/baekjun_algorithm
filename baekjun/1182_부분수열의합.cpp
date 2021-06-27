@@ -8,7 +8,11 @@ int n, s;
 
 void solved(const vector<int>& vec, int curr, int sum)
 {
+	if (n == curr) return;
+	if (sum + vec[curr] == s) answer++;
 
+	solved(vec, curr + 1, sum + vec[curr]);
+	solved(vec, curr + 1, sum);
 }
 
 int main()
@@ -17,6 +21,7 @@ int main()
 
 	vector<int> vec(n);
 	for (int i = 0; i < n; ++i) cin >> vec[i];
+
 
 	solved(vec, 0, 0);
 	cout << answer << "\n";

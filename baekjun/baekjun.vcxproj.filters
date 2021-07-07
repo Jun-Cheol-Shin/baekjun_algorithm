@@ -52,6 +52,9 @@
     <Filter Include="소스 파일\그래프">
       <UniqueIdentifier>{6dc72477-2053-4789-b3a9-e8e87ea59db4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\트리">
+      <UniqueIdentifier>{4838fd18-79d8-49e9-811a-dc93428566a8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="17413_단어뒤집기.cpp">
@@ -326,6 +329,27 @@
     </ClCompile>
     <ClCompile Include="4963_섬의 개수.cpp">
       <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="2178_미로탐색.cpp">
+      <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="7576_토마토.cpp">
+      <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="7562_나이트의_이동.cpp">
+      <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="1697_숨바꼭질.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="14226_이모티콘.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="13549_숨바꼭질3.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1261_알고스팟.cpp">
+      <Filter>소스 파일\BFS</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

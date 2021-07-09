@@ -351,5 +351,14 @@
     <ClCompile Include="1261_알고스팟.cpp">
       <Filter>소스 파일\BFS</Filter>
     </ClCompile>
+    <ClCompile Include="1991_트리순회.cpp">
+      <Filter>소스 파일\트리</Filter>
+    </ClCompile>
+    <ClCompile Include="2250_트리의_높이와_너비.cpp">
+      <Filter>소스 파일\트리</Filter>
+    </ClCompile>
+    <ClCompile Include="11725_트리의_부모_찾기.cpp">
+      <Filter>소스 파일\트리</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

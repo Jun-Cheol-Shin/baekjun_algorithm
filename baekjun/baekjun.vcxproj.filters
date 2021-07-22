@@ -360,5 +360,17 @@
     <ClCompile Include="11725_트리의_부모_찾기.cpp">
       <Filter>소스 파일\트리</Filter>
     </ClCompile>
+    <ClCompile Include="1339_단어_수학.cpp">
+      <Filter>소스 파일\브루트-순열</Filter>
+    </ClCompile>
+    <ClCompile Include="14225_부분수열의_합.cpp">
+      <Filter>소스 파일\브루트-재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="15658_연산자_끼워넣기_2.cpp">
+      <Filter>소스 파일\브루트-재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="14888_연산자_끼워넣기.cpp">
+      <Filter>소스 파일\브루트-재귀</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

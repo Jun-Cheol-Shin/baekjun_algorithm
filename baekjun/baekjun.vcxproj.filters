@@ -55,6 +55,9 @@
     <Filter Include="소스 파일\트리">
       <UniqueIdentifier>{4838fd18-79d8-49e9-811a-dc93428566a8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\그리디">
+      <UniqueIdentifier>{87d64587-ea63-4587-86d3-bab125a76b0e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="17413_단어뒤집기.cpp">
@@ -392,6 +395,15 @@
     </ClCompile>
     <ClCompile Include="14502_연구소.cpp">
       <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="3055_탈출.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="16236_아기_상어.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="11047_동전_0.cpp">
+      <Filter>소스 파일\그리디</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

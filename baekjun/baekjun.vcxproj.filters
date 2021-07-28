@@ -58,6 +58,12 @@
     <Filter Include="소스 파일\그리디">
       <UniqueIdentifier>{87d64587-ea63-4587-86d3-bab125a76b0e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\이분탐색">
+      <UniqueIdentifier>{50373332-794b-4c30-badd-86a3e803b457}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\정렬">
+      <UniqueIdentifier>{2266d723-73be-4f9c-8fb9-bf419ad2db74}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="17413_단어뒤집기.cpp">
@@ -404,6 +410,24 @@
     </ClCompile>
     <ClCompile Include="11047_동전_0.cpp">
       <Filter>소스 파일\그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="10815_숫자_카드.cpp">
+      <Filter>소스 파일\이분탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="11650_좌표_정렬하기.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="1654_랜선_자르기.cpp">
+      <Filter>소스 파일\이분탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="1931_회의실_배정.cpp">
+      <Filter>소스 파일\그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="11399_ATM.cpp">
+      <Filter>소스 파일\그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="2805_나무_자르기.cpp">
+      <Filter>소스 파일\이분탐색</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
